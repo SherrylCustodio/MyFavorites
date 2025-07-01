@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Sinigang
 Ice Cream
+=======
+Your Name
+Squid game
+The Notebook
+>>>>>>> movies
